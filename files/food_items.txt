@@ -1,0 +1,3 @@
+1 Tandoori Chicken 240.0 Rs 4pieces 5.0 0 
+2 Vegan Burger 320.0 Rs 1piece 5.0 2 
+3 Truffle Cake 900.0 Rs 500gm 10.0 5 
